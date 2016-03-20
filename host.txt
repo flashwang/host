@@ -1,10 +1,10 @@
-@Security Hijack
+@Security wangxinyu
 #CMCC
-127.0.0.1 120.197.234.71
-#Domain Hijacking
+127.0.0.1 localhost
+#Domain wangxinyu
 127.0.0.1 ss.cnnic.cn
 127.0.0.1 searchportal.winindomain.com
-#Telcom Hijack
+#Telcom wangxinyu
 127.0.0.1 114so.cn
 127.0.0.1 taobao.114so.cn
 127.0.0.1 search.114so.cn
@@ -32,7 +32,7 @@
 127.0.0.1 img.dianxin.cn
 127.0.0.1 union.dianxin.cn
 127.0.0.1 www.dianxin.cn
-#Unicom Hijack
+#Unicom wangxinyu
 127.0.0.1 auto.search.msn.com
 127.0.0.1 bjdnserror3.wo.com.cn
 127.0.0.1 error3.wo114.cc
